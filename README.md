@@ -5,4 +5,4 @@ Página de artigos remodelada para um design moderno.
 ## O que foi utilizado?
 
 ReactJS\
-Styled-Components\
+Styled-Components

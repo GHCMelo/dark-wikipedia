@@ -35,7 +35,7 @@ function App() {
     <Body>
       <Header>
         <div>
-          <img src={Logo} />
+          <img src={Logo} alt="logo"/>
         </div>
         <div>
           <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7" width="1em">
@@ -55,7 +55,7 @@ function App() {
       <Layout>
         <SideMenu>
           <div>
-            <img src={Logo} />
+            <img src={Logo} alt="logo"/>
           </div>
           <div>
             <span> Wikipédia </span>
@@ -108,7 +108,7 @@ function App() {
         <SideRightMenu>
           <div>
             <h4>República federativa do Brasil</h4>
-            <img src={Br} />
+            <img src={Br} alt="bandeira"/>
           </div>
             <div>
               <span>Lema: Ordem e Progresso</span>
