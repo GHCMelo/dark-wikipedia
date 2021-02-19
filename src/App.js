@@ -58,7 +58,7 @@ function App() {
             <img src={Logo} alt="logo"/>
           </div>
           <div>
-            <span> Wikipédia </span>
+            <span> Dark Wikipédia </span>
           </div>
           <Accordion>
             <Collapse>
