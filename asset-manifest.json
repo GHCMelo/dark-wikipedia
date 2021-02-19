@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dark-wikipedia/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/dark-wikipedia/static/js/main.36868967.chunk.js",
+    "main.js.map": "/dark-wikipedia/static/js/main.36868967.chunk.js.map",
+    "runtime-main.js": "/dark-wikipedia/static/js/runtime-main.b5c030fc.js",
+    "runtime-main.js.map": "/dark-wikipedia/static/js/runtime-main.b5c030fc.js.map",
+    "static/css/2.150d169a.chunk.css": "/dark-wikipedia/static/css/2.150d169a.chunk.css",
+    "static/js/2.f9076458.chunk.js": "/dark-wikipedia/static/js/2.f9076458.chunk.js",
+    "static/js/2.f9076458.chunk.js.map": "/dark-wikipedia/static/js/2.f9076458.chunk.js.map",
+    "index.html": "/dark-wikipedia/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/dark-wikipedia/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/dark-wikipedia/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f9076458.chunk.js.LICENSE.txt": "/dark-wikipedia/static/js/2.f9076458.chunk.js.LICENSE.txt",
+    "static/media/br.50bbfa60.jpg": "/dark-wikipedia/static/media/br.50bbfa60.jpg",
+    "static/media/logo.8ee14a58.png": "/dark-wikipedia/static/media/logo.8ee14a58.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5c030fc.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.f9076458.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.36868967.chunk.js"
+  ]
+}
