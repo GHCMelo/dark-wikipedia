@@ -6,3 +6,7 @@ Página de artigos remodelada para um design moderno.
 
 ReactJS\
 Styled-Components
+
+# \o/
+
+[Veja o deploy no github pages](https://ghcmelo.github.io/dark-wikipedia/)
